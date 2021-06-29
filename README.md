@@ -21,6 +21,8 @@ Nesse tutorial você será capaz de desenvolver a sua primeira aplicação Web u
 * Diretor
 * Preço
 
+parei aqui https://youtu.be/j4IJQdLxGuM?list=PLb2HQ45KP0WupNUElyrf-TT9_OaVb2p3-
+
 ## Executando a Aplicação Localmente 🔥
 Para executar localmente a aplicação você precisa entrar na pasta src -> filmeslivecoding e executar o seguinte comando:
 
